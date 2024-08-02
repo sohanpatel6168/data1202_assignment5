@@ -12,7 +12,7 @@ This project contains Python code for preprocessing data imported from a SQL dat
 
 ### Installing
 1. Clone the repository:
-   https://github.com/sohanpatel6168/data1202_assignment5.git
+   (https://github.com/sohanpatel6168/data1202_assignment5.git)
    
 2. Install required Python libraries:
    ```bash
